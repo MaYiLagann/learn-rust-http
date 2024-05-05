@@ -12,3 +12,15 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+# Visual Studio cache directory
+.vs/
+
+# Visual Studio Code cache directory
+.vscode/
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# Rider cache directory
+.idea/
